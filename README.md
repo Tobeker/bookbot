@@ -1,2 +1,3 @@
 # bookbot
-zeigt Buchstabenanzahl eines Dokuments
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
